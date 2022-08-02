@@ -1,4 +1,4 @@
-# Physics Informed Neural Network for Flood Forecasting
+# Physics Informed Neural Network (PINN) for Flood Forecasting
 
 Implementation notebooks of the paper, Mahesh, Ragini Bal, Jorge Leandro, and Qing Lin. "Physics Informed Neural Network for Spatial-Temporal Flood Forecasting." Climate Change and Water Security. Springer, Singapore, 2022. 77-91., https://link.springer.com/chapter/10.1007/978-981-16-5501-2_7
 
